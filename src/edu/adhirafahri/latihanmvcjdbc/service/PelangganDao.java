@@ -11,7 +11,10 @@ import latihanmvcjdbc.error.PelangganException;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
 public interface PelangganDao {
     public void insertPelanggan(Pelanggan pelanggan) throws PelangganException;

@@ -10,7 +10,10 @@ import latihanmvcjdbc.model.PelangganModel;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
 public interface PelangganListener {
     public void onChange(PelangganModel model);

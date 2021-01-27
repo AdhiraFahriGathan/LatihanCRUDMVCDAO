@@ -15,7 +15,10 @@ import latihanmvcjdbc.error.PelangganException;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
 public class MainViewPelanggan extends javax.swing.JFrame {
 

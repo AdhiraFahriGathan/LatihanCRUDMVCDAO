@@ -13,7 +13,10 @@ import latihanmvcjdbc.service.PelangganDao;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
 public class PelangganModel {
     private int id;

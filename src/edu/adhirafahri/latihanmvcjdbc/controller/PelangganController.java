@@ -10,7 +10,10 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
 public class PelangganController {
     private PelangganModel model;

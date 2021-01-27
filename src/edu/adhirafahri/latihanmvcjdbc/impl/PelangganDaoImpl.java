@@ -17,8 +17,12 @@ import latihanmvcjdbc.error.PelangganException;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
+ 
 public class PelangganDaoImpl implements PelangganDao {
     private Connection connection;
     private final String insertPelanggan = "INSERT INTO PELANGGAN"

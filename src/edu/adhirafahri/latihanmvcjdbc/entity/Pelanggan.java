@@ -9,7 +9,10 @@ import java.util.Objects;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
 public class Pelanggan {
     private Integer id;

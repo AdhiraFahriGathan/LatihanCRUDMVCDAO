@@ -7,7 +7,10 @@ package edu.adhirafahri.latihanmvcjdbc.error;
 
 /**
  *
- * @author User
+ * @author
+ * NIM : 10119025
+ * NAMA : ADHIRA FAHRI GATHAN
+ * KELAS : IF-1
  */
 public class PelangganException extends Exception {
 
